@@ -1,4 +1,4 @@
-## Anna
+## Anna.
 
 Hello <br>
 I'm Anna. <br>
@@ -7,7 +7,7 @@ I'm studying with the goal of developing a platform app. <br>
 
 <br>
 
-### Languages & Framework
+### Languages & Framework.
 
 ![JAVA](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
