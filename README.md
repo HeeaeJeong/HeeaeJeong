@@ -6,7 +6,9 @@ I'm studying with the goal of developing a platform app. <br>
 
 
 <br>
-### Skill
+## Skill
+
+
 
 ## Languages & Framework.
 
