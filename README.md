@@ -2,7 +2,6 @@
 
 Hello <br>
 I'm Anna. <br>
-I'm studying with the goal of developing a platform app. <br>
 
 
 ## Languages & Framework.
